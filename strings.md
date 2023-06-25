@@ -5,15 +5,17 @@
 
 ### Target change:
 
-PT Target: <target>
+`PT Target: <target>`
 
 ### Target list:
 
-PT I have <num> targets: <target>, <target> ...
+`PT I have <num> targets: <target>, <target> ...`
 
 ### Role assignments:
 
-PT Role assignments are: <role> - <member>, <member>.\t<role> - <member>, <member> ...
+`PT Role assignments are: <role> - <member>, <member>.\t<role> - <member>, <member> ...`
+
+The list of role assignments:
 
  * blocker / blockers
  * propper / proppers
@@ -27,13 +29,13 @@ PT Role assignments are: <role> - <member>, <member>.\t<role> - <member>, <membe
 
 ### Target health:
 
-PT <target>'s health at <val>/<max>
+`PT <target>'s health at <val>/<max>`
 
 ### Target mana:
 
-PT <target>'s mana at <val>/<max>
+`PT <target>'s mana at <val>/<max>`
 
 ### Hit with affliction:
 
-PT <target> hit with <affliction>
+`PT <target> hit with <affliction>`
 
