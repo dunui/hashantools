@@ -2,11 +2,6 @@
 # String specification / documentation
 
 ## These are the strings sent by installed package.
-
-### Target change:
-
-`PT Target: <target>`
-
 ### Target list:
 
 `PT I have <num> targets: <target>, <target> ...`
@@ -35,7 +30,35 @@ The list of role assignments:
 
 `PT <target>'s mana at <val>/<max>`
 
-### Hit with affliction:
+### The below messages are also found in CLAN TLOS HELP PARTYCALLING.
 
-`PT <target> hit with <affliction>`
+Target Called
+-------------
+(Party): You say, "Target: Ereia."
+(Party): Lasyll says, "Target: Ereia."
+
+Affliction Called:
+------------------
+(Party): You say, "Afflicting Lasyll: asthma."
+(Party): Lasyll says, "Afflicting Ereia: asthma."
+
+Blocking
+--------
+(Party): You say, "Blocking southwest."
+(Party): Lasyll says, "Blocking southwest."
+
+Unblocking
+----------
+(Party): You say, "Unblocking."
+(Party): Lasyll says, "Unblocking."
+
+Bomb Throwing
+-------------
+(Party): You say, "Threw concussion bomb southwest!"
+(Party): Lasyll says, "Threw concussion bomb southwest!"
+
+Shooting
+--------
+(Party): You say, "Shot Lasyll southwest with prefarar."
+(Party): Lasyll says, "Shot Ereia southwest with prefarar."
 
